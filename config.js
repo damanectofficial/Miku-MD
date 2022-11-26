@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['6283872273467']
+global.OwnerNumber = ['6283872273467']
+global.ownertag = ['6283872273467']
+global.BotName = "Hi DayatGanteng-BotWhatsap"
+global.packname = "Hi DayatGanteng-BotWhatsap"
+global.author = "By: Hidayat Store"
+global.OwnerName = "Hidayat Store My Id"
+global.BotSourceCode = "https://hidayat-store.my.id"
+global.SupportGroupLink = "https://hidayat-store.my.id"
 global.sessionName = "session"
 
 
@@ -24,10 +24,10 @@ global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
-global.reactmoji = "❤️"
+global.reactmoji = ""
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://hidayat-store.my.id"
 global.lolhuman = "KaysaS"
 
 
